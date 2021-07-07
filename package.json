@@ -1,0 +1,24 @@
+{
+  "name": "single-page-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "homepage": "https://github.com/EL102/single-page-portfolio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EL102/single-page-portfolio.git"
+  },
+  "author": "EL102",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EL102/single-page-portfolio/issues"
+  },
+  
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
